@@ -5,5 +5,5 @@ api_version: 1
 threadsafe: false
 
 handlers:
-- url: /
+- url: /home.php
   script: home.php
