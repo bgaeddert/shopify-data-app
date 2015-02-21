@@ -1,4 +1,4 @@
-application: myapp
+application: shopify-data-app
 version: alpha-001
 runtime: php
 api_version: 1
